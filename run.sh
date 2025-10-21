@@ -18,6 +18,7 @@ EVAL_FOLDER=eval
 cd $EVAL_FOLDER
 
 chmod +x ./*.sh ./*.jar
+mkdir -p ./logs
 
 ./0-begin.sh "$DELIVERY" "$TIMESTAMP"
 ./1-clone.sh "$DELIVERY" "$SINGULAR"
