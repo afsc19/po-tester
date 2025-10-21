@@ -1,0 +1,6 @@
+./src/bci/exceptions/UnavailableFileException.java
+./src/bci/exceptions/ImportFileException.java
+./src/bci/exceptions/MissingFileAssociationException.java
+./src/bci/exceptions/UnrecognizedEntryException.java
+./src/bci/Library.java
+./src/bci/LibraryManager.java

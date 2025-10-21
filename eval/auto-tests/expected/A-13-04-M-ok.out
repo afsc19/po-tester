@@ -1,0 +1,144 @@
+Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Ficheiro a abrir: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Menu de Gestão de Utentes
+1 - Registar utente
+2 - Mostrar utente
+3 - Listar utentes
+4 - Mostrar notificações de utente
+5 - Saldar multa de utente
+0 - Sair
+Escolha uma opção: 1 - Darth Vader - darth@dark.force.coAm - NORMAL - ACTIVO
+2 - Luke Skywalker - last.jedi@universe.com - CUMPRIDOR - ACTIVO
+3 - Obi-Wan Kenobi - obiwan@jedi.org - NORMAL - ACTIVO
+Menu de Gestão de Utentes
+1 - Registar utente
+2 - Mostrar utente
+3 - Listar utentes
+4 - Mostrar notificações de utente
+5 - Saldar multa de utente
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 2 deve ser devolvida até ao dia 16.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 3 deve ser devolvida até ao dia 31.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Introduza número de dias a avançar: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: O utente 2 deve pagar uma multa de EUR 25.
+O utente deseja pagar multa (s/n)? Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: A obra 2 deve ser devolvida até ao dia 44.
+Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Introduza o número da obra: O utente 2 deve pagar uma multa de EUR 100.
+O utente deseja pagar multa (s/n)? Menu de Gestão de Requisições
+1 - Requisitar obra
+2 - Devolver obra
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: Menu de Gestão de Utentes
+1 - Registar utente
+2 - Mostrar utente
+3 - Listar utentes
+4 - Mostrar notificações de utente
+5 - Saldar multa de utente
+0 - Sair
+Escolha uma opção: Introduza o número de utente: 2 - Luke Skywalker - last.jedi@universe.com - NORMAL - SUSPENSO - EUR 100
+Menu de Gestão de Utentes
+1 - Registar utente
+2 - Mostrar utente
+3 - Listar utentes
+4 - Mostrar notificações de utente
+5 - Saldar multa de utente
+0 - Sair
+Escolha uma opção: Introduza o número de utente: Menu de Gestão de Utentes
+1 - Registar utente
+2 - Mostrar utente
+3 - Listar utentes
+4 - Mostrar notificações de utente
+5 - Saldar multa de utente
+0 - Sair
+Escolha uma opção: Introduza o número de utente: 2 - Luke Skywalker - last.jedi@universe.com - NORMAL - ACTIVO
+Menu de Gestão de Utentes
+1 - Registar utente
+2 - Mostrar utente
+3 - Listar utentes
+4 - Mostrar notificações de utente
+5 - Saldar multa de utente
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir ficheiro
+2 - Guardar ficheiro
+3 - Ver data
+4 - Avançar data
+5 - Menu de gestão de utentes
+6 - Menu de gestão de obras
+7 - Menu de gestão de requisições
+0 - Sair
+Escolha uma opção: 

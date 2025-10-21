@@ -1,0 +1,4 @@
+eval/logs/*
+eval/.git
+eval/GLOBAL*
+*.log.html
